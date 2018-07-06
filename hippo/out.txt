@@ -1,0 +1,84 @@
+ 
+Interface name : Wi-Fi 
+There are 16 networks currently visible. 
+
+SSID 1 : Cukiernia3133
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
+SSID 2 : Darmowe_Orange_WiFi
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+
+SSID 3 : UPC Wi-Free
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+
+SSID 4 : UPC243562020
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
+SSID 5 : UPC503562020
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
+SSID 6 : UPC336DF87
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
+SSID 7 : SAGEM_1536
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
+SSID 8 : NET
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
+SSID 9 : marchew_to_ja
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
+SSID 10 : KUKI
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
+SSID 11 : UPC5818082
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
+SSID 12 : UPC1282850
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
+SSID 13 : UPC66FFD8D
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
+SSID 14 : TP-LINK_5757A4
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
+SSID 15 : WLAN-A88ARL
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
+SSID 16 : UPC246474074
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
