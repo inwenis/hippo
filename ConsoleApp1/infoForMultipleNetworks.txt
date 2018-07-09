@@ -1,0 +1,25 @@
+﻿
+Interface name : Wi-Fi
+There are 2 networks currently visible.
+
+SSID 1 : HUAWEI P10 lite
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP
+    BSSID 1                 : b0:e5:ed:a1:21:65
+         Signal             : 70%
+         Radio type         : 802.11n
+         Channel            : 6
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 2 : WLAN-5Y7R4B
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP
+    BSSID 1                 : 48:3c:0c:4c:0b:b5
+         Signal             : 99%
+         Radio type         : 802.11n
+         Channel            : 6
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54

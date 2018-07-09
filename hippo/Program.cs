@@ -22,7 +22,7 @@ namespace hippo
             while (true)
             {
                 var scans = new List<ScanResult>();
-                foreach (var scanIndex in Enumerable.Range(1, 100))
+                foreach (var scanIndex in Enumerable.Range(1, 10))
                 {
                     var lines = RunProcess_GetAllReachableWLANNetworks();
                     //var lines = File.ReadAllLines("out.txt");
@@ -55,7 +55,7 @@ namespace hippo
                     Console.WriteLine(JsonConvert.SerializeObject(scanResult));
 
                     scans.Add(scanResult);
-                    Thread.Sleep(10 * 1000);
+                    Thread.Sleep(1 * 1000);
                 }
                 File.WriteAllText(DateTimeOffset.UtcNow.ToString("O").Replace(":", "_") + ".txt", JsonConvert.SerializeObject(scans));
             }
@@ -74,6 +74,7 @@ namespace hippo
             var process = Process.Start(processStartInfo);
             var readToEnd = process.StandardOutput.ReadToEnd();
             process.WaitForExit();
+            Console.WriteLine(readToEnd);
             var lines = readToEnd.Split(new[] {"\r\n"}, StringSplitOptions.None);
             return lines;
         }
